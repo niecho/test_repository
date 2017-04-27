@@ -1,1 +1,2 @@
 These changes will be made to just the README file on your readme-edits branch, so now this branch contains content that’s different from
+Branches are essential to proposing changes and reviewing code on GitHub—and they’re always available in the top left corner of the repository view. Just select the current branch to switch branches or create a new one.
