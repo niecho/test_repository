@@ -1,0 +1,3 @@
+Sub Workbook_BeforeSave(ByVal SaveAsUI As Boolean, Cancel As Boolean) 
+    ActiveSheet.Range("G3").Value = Format(Now, "yyyy年m月d日 hh:mm:ss")     
+End Sub
